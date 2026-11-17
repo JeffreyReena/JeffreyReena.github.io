@@ -1,0 +1,10 @@
+REPAIRED PORTFOLIO — 2026-11-17-repaired-01
+
+Upload the CONTENTS of this folder to the root of the existing GitHub Pages repository (not the ZIP itself, and not the parent folder).
+
+1. In GitHub repository root, upload index.html and Reena_Resume.pdf; commit changes.
+2. Open the existing assets folder, upload the spin-wheel.png image if not already present. Do not delete existing assets.
+3. In Settings > Pages confirm Deploy from a branch, main, /(root).
+4. Check Actions for completed Pages deployment. Open live site with Ctrl+Shift+R. Footer must show: Portfolio build: 2026-11-17-repaired-01.
+
+The original 12 cards and their game links are preserved. Kitchen Scramble 2 is the 13th card. Existing remote screenshots can fail when their hosting sites block embedding; cards will show an explicit fallback link, not disappear. No authentic local screenshots for Kitchen Scramble 2, Words of Wonder, or Gardens of Time were supplied.
